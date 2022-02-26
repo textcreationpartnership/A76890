@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloody nevvs from Clerkenwel, or, A full and true relation of a most horrid and barbarous cruelty, comited by a journey-man-cooper, vvho lived in Tumble-Down-Dick's-Court, over-against Wood's-Close· After he had been out 3 or 4 days on a ramble, coming home, on Munday the 18th. of this instant May, most inhumanely and without any provocation, kill'd his wife in a most cruel manner: she being then great with child. Together with his examination before a justice, and wishing that he had kill'd more: and his comitment the same evening to Newgate. With allowance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76890</idno>
+            <idno type="STC">Wing B3264A</idno>
+            <idno type="STC">ESTC R210976</idno>
+            <idno type="EEBO-CITATION">99899270</idno>
+            <idno type="PROQUEST">99899270</idno>
+            <idno type="VID">152845</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76890)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152845)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2326:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloody nevvs from Clerkenwel, or, A full and true relation of a most horrid and barbarous cruelty, comited by a journey-man-cooper, vvho lived in Tumble-Down-Dick's-Court, over-against Wood's-Close· After he had been out 3 or 4 days on a ramble, coming home, on Munday the 18th. of this instant May, most inhumanely and without any provocation, kill'd his wife in a most cruel manner: she being then great with child. Together with his examination before a justice, and wishing that he had kill'd more: and his comitment the same evening to Newgate. With allowance.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for P.B. in VVest-smithfield,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and conjectured publication date from Wing.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murder --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152845:1" rendition="simple:additions"/>
+            <p>Bloody Nevvs FROM CLERKENWEL OR, A Full and True Relation of a moſt Horrid and Barbarous Cruelty, Comited by a Iourney-man-Cooper, VVho lived in <hi>Tumble-Down-Dick's-Court,</hi> Over-againſt WOOD'S-CLOSE.</p>
+            <p>After he had been out 3 or 4 days on a Ramble, coming home, on <hi>Munday</hi> the <hi>18th.</hi> of this Inſtant <hi>May,</hi> moſt inhumanely and without any provocation, Kill'd his Wife in a moſt Cruel Manner: She being then great with Child.</p>
+            <p>Together with his Examination before a Juſtice, and wiſhing that he had Kill'd more: and his Comitment the ſame Evening to <hi>Newgate.</hi>
+            </p>
+            <p>
+               <hi>With Allowance.</hi>
+            </p>
+            <p>Printed for P. B. in <hi>VVest-ſmith-field.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:152845:2"/>
+            <pb facs="tcp:152845:2"/>
+            <head>Bloody NEWS FROM CLERKENWEL.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Ow great a ſway and Dominion the Black Prince of the Air hath over the minds of too many men, is evident in the ſtrange Crimes and barbarous Outrages they eve<g ref="char:EOLhyphen"/>ry day, as ſlaves to his helliſh pleaſure commit in the World. Murther in it ſelf is a ſcarlet and moſt crying ſin, a defaceing of God's Image, and offering violence to Nature; but Satan now adays is not content with a Sacrifice of blood, unleſs attended with all agravating Circumſtances, and acted by, and between perſons whoſe Relation requiring the moſt endearing affections for each other, ſets off Murther in the moſt ex<g ref="char:EOLhyphen"/>quifite colours of Horror.</p>
+            <pb n="4" facs="tcp:152845:3"/>
+            <p>The Malefactor was by Trade a Cooper, but never ar<g ref="char:EOLhyphen"/>rived any higher than to be a JOurney-man in that Pro<g ref="char:EOLhyphen"/>feſſion, he has been Married ſome years, and had two Children by his Wife; they lived (having only a Lodg<g ref="char:EOLhyphen"/>ing in a Chamber) in Court called, <hi>Tumble-down-Dicks</hi> Court in <hi>Clerkenwel:</hi> he was generally a very bad Husband, and froward and unkind to his Wife, who yet loving him very well, endeavoured to take no notice of it.</p>
+            <p>On Thurſday the 14 of <hi>May</hi> he went abroad, and what Company he was with, we cannot ſay, but know this, that he came no more home till the Munday follow<g ref="char:EOLhyphen"/>ing, during all which time the poor woman and her two children were forced to make what ſhift they could for a Livelyhood, and compelled to ſell ſome cloaths for a lit<g ref="char:EOLhyphen"/>tle money to buy them bread: However on Munday in the afternoon this poor woman little dreaming that her end was ſo neer aproaching, found her Spirits more then ordinary cheerful, inſomuch that ſhe took notice of it to ſeveral of the Neighbours, ſaying, That ſhe never had been ſo brisk and light-hearted as at that inſtant, in her whole life, and whilſt ſome told her, that ſo ſudden, un<g ref="char:EOLhyphen"/>uſual, and cauſeleſs a mirth and cheerfulneſs was gene<g ref="char:EOLhyphen"/>rally the ſign or fore-runner of ſome grand misfortune; ſhe concluded it on the contrary, a token of good luck; and like a kind Wife, eſteeming nothing more than her Husband, how unworthily ſoever he had dealt by her, added, that ſhe hoped ſhe ſhould ſee him at home that night, for whoſe ſafety, by reaſon of his long abſence, ſhe had for two or three days been much troubled. I ſhall not ſtand curiouſly to deſcant on, much leſs deter<g ref="char:EOLhyphen"/>mine the nature and cauſes of thoſe ſudden damps or
+<pb n="5" facs="tcp:152845:3"/>tranſports of joy or ſorrow, which we oftimes feel upon our Spirits, without any cauſe at all for ſuch emotions, from external Accidents, nor the meaning why they are generally to be underſtood as portent, of a quite contrary Signification to what they ſeem to be, whether they are to be accounted the cautionating Items of every perſons Genius or Guardian Angel to alarm and prepare one for eminent Diſaſters, or ſome ſallies of the ſoul, who forſeeing his releaſe from the body aproaching, ſwells with a full Tide of Joy at the thoughts of that ſeparation. 'Tis certain, that here we may deplore the blind<g ref="char:EOLhyphen"/>neſs of man's underſtanding, how we alwayes Err, when from uncertain gueſſes we meaſure futurities, and know not in the leaſt one minute what ſhall be<g ref="char:EOLhyphen"/>fall us in the next, not may we with leſs amazement conſider the barbarous ingratitude of this wretched Hus<g ref="char:EOLhyphen"/>band to his kind Wife, who ſo paſſionately wiſht for his comeing home, though the ſame immediately after proved the loſs of her life in an inhumane manner.</p>
+            <p>For, behold! about five or ſix of the clock the ſame Munday in the Afternoon, this long lookt for Extravagant came home to his Wives chamber, where another wo<g ref="char:EOLhyphen"/>man was come at the ſame time to ſee her, and though 'tis probable an Ale-houſe had taken up the greateſt part of his time, yet he did not ſeem to be at all in Drink, the woman received him very mildly, told him ſhe was glad to ſee him well, and that ſhe wondered, and had been much troubled to think what was become of him; and then telling him that one of the Children was not very well, ſhe deſired him to give her ſome money to go to
+<pb n="6" facs="tcp:152845:4"/>the Apothecaries to buy ſomething for it. Upon which words this wicked man falling into a paſſion like an en<g ref="char:EOLhyphen"/>raged fury, catches up an Adze, an inſtrument which Coopers uſually work with, and by it's ſharpneſs at one end, and hammer at the other, prepared to do Miſchief two ways, with the blunt end of this he forthwith knockt her down to the ground, and then continued ſtriking back<g ref="char:EOLhyphen"/>wards and forwards till he had given her ſeveral mortal wounds, at which as at ſo many ſally ports her affrighted ſoul took a ſudden flight, and left the mangled body wel<g ref="char:EOLhyphen"/>tring in it's own Gore upon the Floor.</p>
+            <p>The other woman when the aſſault began, feeing the man lay about him ſo violently with that dangerous and miſchievous weapon, was terribly affrighted, and thought fit for to conſult her own ſafety by running down ſtairs with all the ſpeed imaginable, and crying out as loud as ſhe was able for help.</p>
+            <p>But no body could come in time enough to the reſcue, before he had performed his bloody work upon his poor Wife, and left her wholly breathleſs; which being done he takes up one of his children into his arms, and was walking with it up and down the room, as in Tri<g ref="char:EOLhyphen"/>umph for that Helliſh victory.</p>
+            <pb n="7" facs="tcp:152845:4"/>
+            <p>'Tis ſuppoſed by ſome words utter'd by him ſince his apprehenſion that he had a mind to have diſpatcht the woman if ſhe had not ſaved her ſelf by flight, and alſo to have deſtroyed this Innocent Babe, but the Wo<g ref="char:EOLhyphen"/>mans Exclamations having raiſed the Neighbors, they prevented his miſchievous deſign, and took the Child from him before he had done it any harm, and be<g ref="char:EOLhyphen"/>holding there with pitty and amazement what he had done, they apprehend him, which was the more eaſie to be done, becauſe he did not ſeem to intend to make any eſcape: being charged with a Conſtable he was forth<g ref="char:EOLhyphen"/>with carried before one of his Majeſties Juſtices of the Peace for the County of <hi>Middleſex.</hi>
+            </p>
+            <p>When he came there to be Examined, the Hamous Fact was too apparent, The Womans Teſtimony, and the Notoriouſneſs of the thing, evidencing both the Murder, and him to be the Author of it: Nor indeed did he go about to deny in: but being asked by the Juſtice, what prompted him to do ſuch a Divelſh In<g ref="char:EOLhyphen"/>humane Act, he Could give <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther but this curſed Anſwer, <hi>That be knew well enough he ſhould be Hang'd, and was ſorry for nothing but that he had not diſpatcht ſome more of them:</hi> And being preſsed to explain himſelf, who he meant, he refuſed ſo to do: but repeated the ſame words again; whereupon his <hi>Mittimus</hi> was made, and he with a ſtrong Guard ſent to <hi>Newgate,</hi> whither he went attended with very many people, and now lies there in expectation to receive the juſt reward due to the Demerits of his Crimes.</p>
+            <pb n="8" facs="tcp:152845:5"/>
+            <p>Oh! Let this Example warn all others from fol<g ref="char:EOLhyphen"/>lowing lewd Courſes, abſenting themſelves from their dwellings, and never providing for their Families; and eſpecially from Hearkning to the Devils Suggeſtions, or their own Revenge; ſo as in Paſsionate Phreaſie to bereave any of their lives: which beſides the Danger of their Souls Eternal Ruine, moſt Deſervedly and aſſuredly will bring them to fall unpittied, by an untime<g ref="char:EOLhyphen"/>ly and ignominious Death.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
